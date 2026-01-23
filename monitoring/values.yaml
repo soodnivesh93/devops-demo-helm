@@ -1,7 +1,8 @@
 
 grafana:
   enabled: true
-  adminPassword: admin
+  adminUser: admin
+  adminPassword: LyxSyMqYzuxpDrQR
   service:
     type: ClusterIP
   persistence:

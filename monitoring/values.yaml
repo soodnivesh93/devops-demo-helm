@@ -1,8 +1,10 @@
+crds:
+  enabled: false
 
 grafana:
   enabled: true
   adminUser: admin
-  adminPassword: LyxSyMqYzuxpDrQR
+  adminPassword: beeNsaRvaOfHysA2cA7hlICCvV9kzfc1196XZB91
   service:
     type: ClusterIP
   persistence:
